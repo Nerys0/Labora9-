@@ -32,12 +32,19 @@ nav a :hover {
     }
 .contenedor p {
     color: blue;
-}
+    font-size: 16px;
+    line-height: 1.6;
+    }
+    footer{
+        background-color: azure;
+        color: yellow;
+        text-align: center;
+        padding: 10px;
+        margin-top: 20px;
+
+    }
 
 
-
-
-}
      
 
 
