@@ -1,7 +1,18 @@
-/"Estilo para el encabezado"
+/*Estilo para el encabezado*/
 header{
-    background -color 287d57
-    tex -alig
+    background-color: aliceblue;
+    text-align: justify;
+    color: black;
+}
+
+
+
+
+}
+
+    
+    tex-align:center;
+    color 
 
     
 }
