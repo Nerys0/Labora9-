@@ -1,5 +1,7 @@
 /"Estilo para el encabezado"
 header{
     background -color 287d57
-    tex
+    tex -alig
+
+    
 }
