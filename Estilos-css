@@ -2,9 +2,7 @@
 header{
     background-color: aliceblue;
     text-align: justify;
-    color: black
-
-      
+    color: black      
 }
 /*Estilo para la barra de navegacion*/
 nav a{
@@ -22,12 +20,13 @@ nav a :hover {
         margin: 20px;align-items: center;
         padding: 15px;
         background-color: seagreen;
-        border-radius align-self;
-        box-shadow: 0 0 10px chocolate;           
+        border-radius: 0%; align-self: auto;
+        box-shadow: 0 0 10px chocolate;    
 
     }
     .contenedor h2{
         color: teal;
+    }
         .contenedor p{
             color: blanchedalmond;
             font-size: 16px;
@@ -39,20 +38,7 @@ nav a :hover {
         color: yellow;
         text-align: center;
         padding: 10px;
-        margin-top: 20px;
-
+        margin-top: 20p
     }
-
-
-     
-
-
-
-
-
-
-    
-    
-    
 
     
