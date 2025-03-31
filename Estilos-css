@@ -7,34 +7,33 @@ header{
       
 }
 /*Estilo para la barra de navegacion*/
-nav{
-    color: crimson;
-    text-decoration: solid;
+nav a{
+    color: #000;
+    text-decoration: none;
     margin: 0 15px;
-    font-weight: bold;    
+    font-weight: bold;
 }
 nav a :hover {
-    color: sienna;
+    color: blanchedalmond;
     }
     /*Estilo para la seccion principal*/
-    .contenedor {
+    .contenedor{
         width: 90%;
-        margin: 20px;
+        margin: 20px;align-items: center;
         padding: 15px;
-        background-color: thistle;
-        border-radius: 0cap;
-        box-shadow: 0 0 10%;
-        color: #000;
-        
+        background-color: seagreen;
+        border-radius align-self;
+        box-shadow: 0 0 10px chocolate;           
+
     }
-    .contenedor h2 {
-        color: whitesmoke;
-    }
-.contenedor p {
-    color: blue;
-    font-size: 16px;
-    line-height: 1.6;
-    }
+    .contenedor h2{
+        color: teal;
+        .contenedor p{
+            color: blanchedalmond;
+            font-size: 16px;
+            line-height: 1.6;
+        }                
+          
     footer{
         background-color: azure;
         color: yellow;
